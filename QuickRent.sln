@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backend", "Backend", "{B3ED827A-8BC1-4B28-92BA-2E44AB4B594C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickRent.API", "Backend\QuickRent.API\QuickRent.API.csproj", "{3ABC5506-060B-453E-8635-35BC1B21BC9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ABC5506-060B-453E-8635-35BC1B21BC9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABC5506-060B-453E-8635-35BC1B21BC9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABC5506-060B-453E-8635-35BC1B21BC9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABC5506-060B-453E-8635-35BC1B21BC9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3ABC5506-060B-453E-8635-35BC1B21BC9A} = {B3ED827A-8BC1-4B28-92BA-2E44AB4B594C}
+	EndGlobalSection
+EndGlobal
