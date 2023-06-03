@@ -12,3 +12,7 @@ Sample .NET project - Structured
 - Stop the proj: `CTRL + C`
 
 - `dotnet new classlib -o Backend/something.Models`
+
+### Step
+
+- Add these projects: Models, Services, DataAccess, Tests
