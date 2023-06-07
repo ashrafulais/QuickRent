@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using QuickRent.API.Models;
 
 namespace QuickRent.API.Controllers;
 
