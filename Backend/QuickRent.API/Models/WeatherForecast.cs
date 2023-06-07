@@ -1,4 +1,4 @@
-namespace QuickRent.API;
+namespace QuickRent.API.Models;
 
 public class WeatherForecast
 {
