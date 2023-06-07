@@ -1,0 +1,8 @@
+
+POST http://localhost:5111/api/Authenticate/login/
+Content-Type: application/json
+
+{
+    "Username": "john",
+    "Password": "Abc123!"
+}

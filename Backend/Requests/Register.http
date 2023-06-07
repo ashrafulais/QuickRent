@@ -1,0 +1,9 @@
+
+POST http://localhost:5111/api/Authenticate/register/
+Content-Type: application/json
+
+{
+    "Username": "john",
+    "Email": "john@gmail.com",
+    "Password": "Abc123!"
+}
